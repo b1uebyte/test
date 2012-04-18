@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FLIGHTS</string>
+    <string name="duration_button"><u>Duration</u></string>
+    <string name="duration_button_asc"><u>Duration</u> ↑</string>
+    <string name="duration_button_desc"><u>Duration</u> ↓</string>
+    <string name="takeoff_button">Takeoff</string>
+    <string name="landing_button">Landing</string>
+    <string name="price_button"><u>Price</u></string>
+    <string name="price_button_asc"><u>Price</u> ↑</string>
+    <string name="price_button_desc"><u>Price</u> ↓</string>
+    <string name="empty_no_flights">No flights.</string>
+    <string name="empty_loading">Loading ..</string>
+    <string name="empty_conn_error">Connection error</string>
+    <string name="refresh_button">Refresh button</string>
+    <string name="prefs">...</string>
+
+</resources>

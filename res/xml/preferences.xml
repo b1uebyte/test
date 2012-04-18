@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <CheckBoxPreference android:key="long_request"
+        android:title="Request sleep"
+        android:summary="Imitates long-time requests" />
+    <CheckBoxPreference android:key="large_xml"
+        android:title="Large XML"
+        android:summary="Loads large xml-file" />
+</PreferenceScreen>

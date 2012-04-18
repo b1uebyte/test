@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="tableHeader" parent="@android:style/TextAppearance">
+        <item name="android:textSize">12dip</item>
+        <item name="android:textColor">@color/tableHeaderFont</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    <style name="flightItemCity" parent="@android:style/TextAppearance">
+        <item name="android:textSize">16dip</item>
+        <item name="android:textColor">@color/flightItemFont</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="flightItemPriceButton" parent="@android:style/Widget.Button">
+        <item name="android:textSize">12dip</item>
+        <item name="android:textColor">@color/flightItemFont</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    <style name="flightItemCarrier" parent="@android:style/TextAppearance">
+        <item name="android:textSize">14dip</item>
+        <item name="android:textColor">@color/flightItemCarrier</item>
+        <item name="android:scrollHorizontally">true</item>
+    </style>
+    
+    <style name="flightItemDate" parent="@android:style/TextAppearance">
+        <item name="android:textSize">13dip</item>
+        <item name="android:textColor">@color/flightItemDate</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    <style name="flightItemTime" parent="@android:style/TextAppearance">
+        <item name="android:textSize">11dip</item>
+        <item name="android:textColor">@color/flightItemDate</item>
+        <item name="android:scrollHorizontally">true</item>
+    </style>
+    
+    <style name="flightItemDuration" parent="@android:style/TextAppearance">
+        <item name="android:textSize">16dip</item>
+        <item name="android:textColor">@color/flightItemFont</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    
+</resources>

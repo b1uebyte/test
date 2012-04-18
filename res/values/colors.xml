@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="headerBackground">#2f3b55</color>
+    <color name="headerFont">#e6eaf3</color>
+    <color name="refreshButtonBackground">#ffbcc5d8</color>
+    
+    <color name="tableHeaderBackground">#7c89a4</color>
+    <color name="tableHeaderFont">#ffffff</color>
+    <color name="tableHeaderDivider">#6d7a95</color>
+
+    <color name="flightsListBackground">#ffffff</color>
+    
+    <color name="flightItemBackground">#ffffff</color>
+    <color name="flightItemFont">#2f3b55</color>
+    <color name="flightItemCarrier">#7c89a4</color>
+    <color name="flightItemDate">#97999c</color>
+    
+</resources>
